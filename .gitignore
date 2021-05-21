@@ -1,0 +1,10 @@
+user_data/backtest_results/*
+
+user_data/data/*
+
+
+user_data/.DS_Store
+
+user_data/notebooks
+
+user_data/tradesv3.sqlite
