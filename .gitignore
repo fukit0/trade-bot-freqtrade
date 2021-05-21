@@ -8,3 +8,5 @@ user_data/.DS_Store
 user_data/notebooks
 
 user_data/tradesv3.sqlite
+
+docker-compose.yml
